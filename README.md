@@ -1,5 +1,10 @@
 # E-Commerce Project For Baby Tools
 
+### TODOS
+
+- Checlist in Repo linken
+- PR in the Project Submission
+
 ### TECHNOLOGIES
 
 - Python 3.9
